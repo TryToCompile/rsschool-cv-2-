@@ -4,7 +4,7 @@
 
 * Phone number: *+375-44-723-43-56*
 
-* Mail: adam1999@tut.by
+* Mail: <adam1999@tut.by>
 
 > Yes, it's the most interesting e-mail u could ever see 
 
