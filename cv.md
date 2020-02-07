@@ -29,13 +29,13 @@ Tim Berners-lee said:
 
 * Basics of C# ( trying to have some fun in Unity)
 
-* Html, css, js - also basics 
+* HTML, CSS, JS - also basics 
 
 * jQuery basics
 
 * bootstrap 
 
-* wordpress - can made LP with templates :)
+* WordPress - can made LP with templates :)
 
 
 ## Experience and Education ##
@@ -44,9 +44,9 @@ Tim Berners-lee said:
 
 * 1 LP from Belhard courses (modern Front-end development, two months)  //  i will add this in the nearest future
 
-* 2 months of work with wordpress ( 2 hours 4 days in a week ) Some small things like help with PS and ( hey, you! I want these buttons to be red! ) :pick:
+* 2 months of work with wordpress (2 hours 4 days in a week) Some small things like help with PS and (hey, you! I want these buttons to be red!) :pick:
 
-* Some interesting courses on htmlacademy and videos from youtube :)
+* Some interesting courses on HTMLacademy and videos from youtube :)
 
 
 ***As for my language practice,*** i have A2 level.
