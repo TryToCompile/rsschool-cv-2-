@@ -1,0 +1,28 @@
+body {
+     background-color: burlywood;
+}
+.resume {
+    margin: 5% 20%;
+    max-width:1024px; 
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.image {
+    margin-bottom: 1%;    
+    width: 150px;
+    height: 200px;
+    border: 1px  solid  black;
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px black; 
+}
+
+h1 {
+    margin-right: 0px;
+    text-align: center;
+}
+
+li{
+    font-style: italic;
+    list-style-type:square;
+}
+
